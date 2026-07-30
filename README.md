@@ -22,13 +22,13 @@ Analyzed 9,994 e-commerce transactions from the Kaggle Superstore dataset to unc
 ## Files
 | File | Description |
 
-| analysis.py | Python data cleaning & analysis code |
-| chart1_category.png | Sales & Profit by Category |
-| chart2_region.png | Sales by Region |
-| chart3_monthly_trend.png | Monthly Sales Trend |
-| chart4_discount_profit.png | Discount Impact on Profit |
-| Ecommerce_Dashboard.pbix | Final Power BI Dashboard |
-| Sample - Superstore.csv | Excel dataset |
+- | analysis.py | Python data cleaning & analysis code |
+- | chart1_category.png | Sales & Profit by Category |
+- | chart2_region.png | Sales by Region |
+- | chart3_monthly_trend.png | Monthly Sales Trend |
+- | chart4_discount_profit.png | Discount Impact on Profit |
+- | Ecommerce_Dashboard.pbix | Final Power BI Dashboard |
+- | Sample - Superstore.csv | Excel dataset |
 
 ## Dashboard Preview
 ![Dashboard](Dashboard_screenshot.png)
